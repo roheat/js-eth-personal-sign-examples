@@ -190,6 +190,16 @@ signTypedDataButton.addEventListener('click', function(event) {
       type: 'uint32',
       name: 'A number',
       value: '1337'
+    },
+    {
+      type: 'bool',
+      name: 'A boolean',
+      value: true
+    },
+    {
+      type: 'bool',
+      name: 'Another boolean',
+      value: false
     }
   ]
 
